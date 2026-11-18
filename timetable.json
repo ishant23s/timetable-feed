@@ -1,0 +1,11 @@
+{
+  "date": "2026-11-19",
+  "updated": "2026-11-19 01:34",
+  "note": "PA-A room changed to FCR 3 (was FCR 4)",
+  "ishant": [
+    { "subject": "PA-A", "start": "11:50", "end": "14:55", "teacher": "Dr. Ramesh M", "room": "FCR 3", "status": "" }
+  ],
+  "vishakha": [
+    { "subject": "PA-A", "start": "11:50", "end": "14:55", "teacher": "Dr. Ramesh M", "room": "FCR 3", "status": "" }
+  ]
+}
