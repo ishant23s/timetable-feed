@@ -1,11 +1,12 @@
 {
-  "date": "2026-11-19",
-  "updated": "2026-11-19 06:45",
-  "note": "PA-A room changed to FCR 3 (was FCR 4)",
+  "date": "2026-11-20",
+  "updated": "2026-11-20 06:45",
+  "note": "ISHANT rooms changed: BECG-C FCR 4 to FCR 3, BFI-B FCR 4 to FCR 2. Vishakha has an extra BECG-G class.",
   "ishant": [
-    { "subject": "PA-A", "start": "11:50", "end": "14:55", "teacher": "Dr. Ramesh M", "room": "FCR 3", "status": "" }
+    { "subject": "BECG-C", "start": "09:00", "end": "11:40", "teacher": "Prof. Sunil Pillai", "room": "FCR 3", "status": "" },
+    { "subject": "BFI-B", "start": "13:40", "end": "16:20", "teacher": "Dr. Girish G P", "room": "FCR 2", "status": "" }
   ],
   "vishakha": [
-    { "subject": "PA-A", "start": "11:50", "end": "14:55", "teacher": "Dr. Ramesh M", "room": "FCR 3", "status": "" }
+    { "subject": "BECG-G", "start": "09:00", "end": "11:40", "teacher": "Dr. Satya Thangvel", "room": "FCR 1", "status": "" }
   ]
 }
