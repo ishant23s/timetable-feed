@@ -1,11 +1,12 @@
 {
-  "date": "2026-11-21",
-  "updated": "2026-11-21 06:45",
-  "note": "Vishakha LEB-G room changed: GCR 3 to GCR 8.",
-  "ishant": [],
+  "date": "2026-11-23",
+  "updated": "2026-11-23 06:45",
+  "note": "ISHANT MCS-C room changed to FCR 3 (was FCR 4); Vishakha has an extra MCS-G class 3:05-5:45 PM.",
+  "ishant": [
+    { "subject": "MCS-C", "start": "09:00", "end": "11:40", "teacher": "Dr. Mathivanan P", "room": "FCR 3", "status": "" }
+  ],
   "vishakha": [
-    { "subject": "LEB-G", "start": "09:00", "end": "10:15", "teacher": "Dr. Issac P Elias", "room": "GCR 8", "status": "" },
-    { "subject": "LEB-G", "start": "10:25", "end": "11:40", "teacher": "Dr. Issac P Elias", "room": "GCR 8", "status": "" },
-    { "subject": "MCS-G", "start": "11:50", "end": "14:55", "teacher": "Prof. Sureshbabu", "room": "GCR 3", "status": "" }
+    { "subject": "BECG-G", "start": "09:00", "end": "11:40", "teacher": "Dr. Satya Thangvel", "room": "FCR 1", "status": "" },
+    { "subject": "MCS-G", "start": "15:05", "end": "17:45", "teacher": "Prof. Sureshbabu", "room": "GCR 7", "status": "" }
   ]
 }
