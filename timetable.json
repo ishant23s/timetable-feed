@@ -1,11 +1,11 @@
 {
-  "date": "2026-11-25",
-  "updated": "2026-11-25 06:45",
-  "note": "ISHANT LEB-C room changed to FCR 3 (was FCR 4); Vishakha has NCP-1 test (Brand Management) 3:15-5:00 PM during BM-B class.",
+  "date": "2026-11-26",
+  "updated": "2026-11-26 06:45",
+  "note": "PA-A NCP-1 test 11:50 AM-12:20 PM (offline) during class; room changed to FCR 3 (was FCR 4).",
   "ishant": [
-    { "subject": "LEB-C", "start": "10:50", "end": "13:30", "teacher": "Dr. Manisha Singh", "room": "FCR 3", "status": "" }
+    { "subject": "PA-A", "start": "11:50", "end": "14:55", "teacher": "Dr. Ramesh M", "room": "FCR 3", "status": "" }
   ],
   "vishakha": [
-    { "subject": "BM-B", "start": "15:10", "end": "17:50", "teacher": "Dr. J. Clement Sudhahar", "room": "FCR 1", "status": "" }
+    { "subject": "PA-A", "start": "11:50", "end": "14:55", "teacher": "Dr. Ramesh M", "room": "FCR 3", "status": "" }
   ]
 }
