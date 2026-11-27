@@ -1,11 +1,11 @@
 {
-  "date": "2026-11-26",
-  "updated": "2026-11-26 06:45",
-  "note": "PA-A NCP-1 test 11:50 AM-12:20 PM (offline) during class; room changed to FCR 3 (was FCR 4).",
+  "date": "2026-11-27",
+  "updated": "2026-11-27 06:45",
+  "note": "Room changes: BECG-C FCR 4 \u2192 FCR 3; BFI-B FCR 4 \u2192 SCR 3.",
   "ishant": [
-    { "subject": "PA-A", "start": "11:50", "end": "14:55", "teacher": "Dr. Ramesh M", "room": "FCR 3", "status": "" }
+    { "subject": "BECG-C", "start": "09:00", "end": "11:40", "teacher": "Prof. Sunil Pillai", "room": "FCR 3", "status": "" },
+    { "subject": "BECG-C", "start": "09:00", "end": "10:15", "teacher": "Prof. Sunil Pillai", "room": "Online \u00b7 Lab 2 SIS", "status": "" },
+    { "subject": "BFI-B", "start": "13:40", "end": "16:20", "teacher": "Dr. Girish G P", "room": "SCR 3", "status": "" }
   ],
-  "vishakha": [
-    { "subject": "PA-A", "start": "11:50", "end": "14:55", "teacher": "Dr. Ramesh M", "room": "FCR 3", "status": "" }
-  ]
+  "vishakha": []
 }
