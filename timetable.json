@@ -1,11 +1,15 @@
 {
-  "date": "2026-11-27",
-  "updated": "2026-11-27 06:45",
-  "note": "Room changes: BECG-C FCR 4 \u2192 FCR 3; BFI-B FCR 4 \u2192 SCR 3.",
+  "date": "2026-11-28",
+  "updated": "2026-11-28 06:45",
+  "note": "Room changes: Vishakha LEB-G & MCS-G GCR 3 → FCR 1.",
   "ishant": [
-    { "subject": "BECG-C", "start": "09:00", "end": "11:40", "teacher": "Prof. Sunil Pillai", "room": "FCR 3", "status": "" },
-    { "subject": "BECG-C", "start": "09:00", "end": "10:15", "teacher": "Prof. Sunil Pillai", "room": "Online \u00b7 Lab 2 SIS", "status": "" },
-    { "subject": "BFI-B", "start": "13:40", "end": "16:20", "teacher": "Dr. Girish G P", "room": "SCR 3", "status": "" }
+    { "subject": "LEB-C", "start": "10:30", "end": "11:00", "teacher": "Dr. Manisha Singh", "room": "Online · LAB 1, SIMS", "status": "" }
   ],
-  "vishakha": []
+  "vishakha": [
+    { "subject": "LEB-G", "start": "09:00", "end": "10:15", "teacher": "Dr. Issac P Elias", "room": "FCR 1", "status": "" },
+    { "subject": "LEB-G", "start": "09:45", "end": "10:15", "teacher": "Dr. Issac P Elias", "room": "Online · LAB 1, SIMS", "status": "" },
+    { "subject": "LEB-G", "start": "10:25", "end": "11:40", "teacher": "Dr. Issac P Elias", "room": "FCR 1", "status": "" },
+    { "subject": "MCS-G", "start": "11:50", "end": "14:55", "teacher": "Prof. Sureshbabu", "room": "FCR 1", "status": "" },
+    { "subject": "BM-B", "start": "15:05", "end": "16:20", "teacher": "Dr. J. Clement Sudhahar", "room": "FCR 1", "status": "" }
+  ]
 }
